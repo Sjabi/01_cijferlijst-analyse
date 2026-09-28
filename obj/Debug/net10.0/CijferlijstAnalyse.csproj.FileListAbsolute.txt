@@ -1,0 +1,15 @@
+C:\dev\C#\01_cijferlijstanalyse\bin\Debug\net10.0\CijferlijstAnalyse.exe
+C:\dev\C#\01_cijferlijstanalyse\bin\Debug\net10.0\CijferlijstAnalyse.deps.json
+C:\dev\C#\01_cijferlijstanalyse\bin\Debug\net10.0\CijferlijstAnalyse.runtimeconfig.json
+C:\dev\C#\01_cijferlijstanalyse\bin\Debug\net10.0\CijferlijstAnalyse.dll
+C:\dev\C#\01_cijferlijstanalyse\bin\Debug\net10.0\CijferlijstAnalyse.pdb
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.AssemblyInfoInputs.cache
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.AssemblyInfo.cs
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.csproj.CoreCompileInputs.cache
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.sourcelink.json
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.dll
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\refint\CijferlijstAnalyse.dll
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.pdb
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\CijferlijstAnalyse.genruntimeconfig.cache
+C:\dev\C#\01_cijferlijstanalyse\obj\Debug\net10.0\ref\CijferlijstAnalyse.dll
